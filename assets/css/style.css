@@ -1,0 +1,53 @@
+.jumbotron{
+    background-color: black;
+    float: left; 
+    width: 500px;
+    height: 2000px; 
+    margin-bottom: 0px;
+}
+
+#home {
+    text-decoration: none;
+    
+}
+
+.btn-outline-primary {
+    margin: 10px;
+}
+
+form {
+    padding: 10px;
+}
+
+.form-row {
+    margin-left: 20px;
+}
+
+.content p {
+    margin-top: 20px;
+    border: 2px solid grey;
+    padding: 10px;
+    text-align: center;
+    
+}
+
+/* added styling when hovering over the employee names */
+p:hover {
+    background-color: blue;
+    color: azure;
+}
+
+.btn-outline-primary {
+    color: azure;
+    padding: 10px;
+    display: flex;
+}
+
+.container {
+    margin-left: 60px;
+}
+
+#update, #verify, #delete, .add, #view {
+    margin-left: 5px;
+    margin-right: 5px;
+}
